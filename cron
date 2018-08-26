@@ -1,4 +1,4 @@
 SHELL=/bin/bash
 
 */30 * * * * /home/pi/thermometer/main.py
-*/30 * * * * /home/pi/raspberrypi_webcamera/main.py
+*/1 * * * * /home/pi/raspberrypi_webcamera/main.py
